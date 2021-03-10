@@ -1,0 +1,23 @@
+.Grid{
+    display: flex;
+     justify-content: space-between;
+}
+
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+
+    color:brown
+
+}
+
+.Item{
+    
+    justify-content: space-evenly;
+    position: relative;
+    flex-wrap: wrap;
+    
+}
